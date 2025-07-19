@@ -6,6 +6,10 @@
 ```markdown
 # Wallet Credit Score Analysis
 
+## Distribution
+
+![Score Distribution](<img width="1000" height="500" alt="score_distribution" src="https://github.com/user-attachments/assets/97d4c694-19cd-4465-b3d3-fe257c4bea71" />
+)
 
 ### Binned Score Ranges:
 
